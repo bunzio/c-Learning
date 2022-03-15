@@ -1,0 +1,15 @@
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\bin\Debug\net6.0\TestClasss.exe
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\bin\Debug\net6.0\TestClasss.deps.json
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\bin\Debug\net6.0\TestClasss.runtimeconfig.json
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\bin\Debug\net6.0\TestClasss.dll
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\bin\Debug\net6.0\TestClasss.pdb
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\obj\Debug\net6.0\TestClasss.csproj.AssemblyReference.cache
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\obj\Debug\net6.0\TestClasss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\obj\Debug\net6.0\TestClasss.AssemblyInfoInputs.cache
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\obj\Debug\net6.0\TestClasss.AssemblyInfo.cs
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\obj\Debug\net6.0\TestClasss.csproj.CoreCompileInputs.cache
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\obj\Debug\net6.0\TestClasss.dll
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\obj\Debug\net6.0\refint\TestClasss.dll
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\obj\Debug\net6.0\TestClasss.pdb
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\obj\Debug\net6.0\TestClasss.genruntimeconfig.cache
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TestClasss\TestClasss\obj\Debug\net6.0\ref\TestClasss.dll
