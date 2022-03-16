@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\TestClasss\\TestClasss\\TestClasss.csproj": {}
+    "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\handyControls\\handyControls.csproj": {}
   },
   "projects": {
-    "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\TestClasss\\TestClasss\\TestClasss.csproj": {
+    "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\handyControls\\handyControls.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\TestClasss\\TestClasss\\TestClasss.csproj",
-        "projectName": "TestClasss",
-        "projectPath": "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\TestClasss\\TestClasss\\TestClasss.csproj",
+        "projectUniqueName": "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\handyControls\\handyControls.csproj",
+        "projectName": "handyControls",
+        "projectPath": "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\handyControls\\handyControls.csproj",
         "packagesPath": "C:\\Users\\Adam Bunzel\\.nuget\\packages\\",
-        "outputPath": "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\TestClasss\\TestClasss\\obj\\",
+        "outputPath": "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\handyControls\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adam Bunzel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net6.0-windows"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
             "projectReferences": {}
           }
         },
@@ -35,12 +35,12 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "dependencies": {
-            "HandyControls": {
+            "HandyControl.Lang.en": {
               "target": "Package",
-              "version": "[3.3.11, )"
+              "version": "[3.3.0, )"
             },
             "HandyControls.Lang.pl": {
               "target": "Package",
@@ -60,6 +60,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Users\\Adam Bunzel\\.dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"

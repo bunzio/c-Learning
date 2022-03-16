@@ -1,0 +1,154 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "HandyControl.Lang.en/3.3.0": {
+        "type": "package",
+        "resource": {
+          "lib/net5.0/en/HandyControl.resources.dll": {
+            "locale": "en"
+          }
+        }
+      },
+      "HandyControls.Lang.pl/3.3.11": {
+        "type": "package",
+        "resource": {
+          "lib/net6.0/pl/HandyControl.resources.dll": {
+            "locale": "pl"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HandyControl.Lang.en/3.3.0": {
+      "sha512": "hSv3lQMB3mlTW5qVVSaSUXC8QNu1jaVctFMzTMYIhBHgtsU2gHnwZpIGn8+iMZRXn1Oo/WFKVJN8SvgZzFsXyQ==",
+      "type": "package",
+      "path": "handycontrol.lang.en/3.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "handycontrol.lang.en.3.3.0.nupkg.sha512",
+        "handycontrol.lang.en.nuspec",
+        "icon.png",
+        "lib/net40/en/HandyControl.resources.dll",
+        "lib/net45/en/HandyControl.resources.dll",
+        "lib/net451/en/HandyControl.resources.dll",
+        "lib/net452/en/HandyControl.resources.dll",
+        "lib/net46/en/HandyControl.resources.dll",
+        "lib/net461/en/HandyControl.resources.dll",
+        "lib/net462/en/HandyControl.resources.dll",
+        "lib/net47/en/HandyControl.resources.dll",
+        "lib/net471/en/HandyControl.resources.dll",
+        "lib/net472/en/HandyControl.resources.dll",
+        "lib/net48/en/HandyControl.resources.dll",
+        "lib/net5.0/en/HandyControl.resources.dll",
+        "lib/netcoreapp3.0/en/HandyControl.resources.dll",
+        "lib/netcoreapp3.1/en/HandyControl.resources.dll"
+      ]
+    },
+    "HandyControls.Lang.pl/3.3.11": {
+      "sha512": "kcu7yK3ofiuBn6ZzfpA91IXPUboULLk/hKRzYgUiqy6cFYE3a/QTgJVPqvU40+/l8e3zzvJUN3huiSGaHBuBLA==",
+      "type": "package",
+      "path": "handycontrols.lang.pl/3.3.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "handycontrols.lang.pl.3.3.11.nupkg.sha512",
+        "handycontrols.lang.pl.nuspec",
+        "icon.png",
+        "lib/net40/pl/HandyControl.resources.dll",
+        "lib/net45/pl/HandyControl.resources.dll",
+        "lib/net451/pl/HandyControl.resources.dll",
+        "lib/net452/pl/HandyControl.resources.dll",
+        "lib/net46/pl/HandyControl.resources.dll",
+        "lib/net461/pl/HandyControl.resources.dll",
+        "lib/net462/pl/HandyControl.resources.dll",
+        "lib/net47/pl/HandyControl.resources.dll",
+        "lib/net471/pl/HandyControl.resources.dll",
+        "lib/net472/pl/HandyControl.resources.dll",
+        "lib/net48/pl/HandyControl.resources.dll",
+        "lib/net5.0/pl/HandyControl.resources.dll",
+        "lib/net6.0/pl/HandyControl.resources.dll",
+        "lib/netcoreapp3.0/pl/HandyControl.resources.dll",
+        "lib/netcoreapp3.1/pl/HandyControl.resources.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "HandyControl.Lang.en >= 3.3.0",
+      "HandyControls.Lang.pl >= 3.3.11"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Adam Bunzel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\handyControls\\handyControls.csproj",
+      "projectName": "handyControls",
+      "projectPath": "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\handyControls\\handyControls.csproj",
+      "packagesPath": "C:\\Users\\Adam Bunzel\\.nuget\\packages\\",
+      "outputPath": "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\handyControls\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Adam Bunzel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "HandyControl.Lang.en": {
+            "target": "Package",
+            "version": "[3.3.0, )"
+          },
+          "HandyControls.Lang.pl": {
+            "target": "Package",
+            "version": "[3.3.11, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\Adam Bunzel\\.dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

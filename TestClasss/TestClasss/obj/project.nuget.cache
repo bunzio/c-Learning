@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dxKOESV18MRwcvFS3pdVLJGs28jJo/7ZP0wkr9wmKy49PhmDT7oVE38D92tLCuRRK/Svui91fSnXUTi3jKEiGg==",
+  "dgSpecHash": "RL3emYPOhDP6fXW2VHjBIbB7wHQKbcVt/kixg6u+ffPL1qLV1xkqY2j5C7KrExNWSsAd0dxv3FvjTyhlueJWsA==",
   "success": true,
   "projectFilePath": "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\TestClasss\\TestClasss\\TestClasss.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam Bunzel\\.nuget\\packages\\handycontrols\\3.3.11\\handycontrols.3.3.11.nupkg.sha512",
+    "C:\\Users\\Adam Bunzel\\.nuget\\packages\\handycontrols.lang.pl\\3.3.11\\handycontrols.lang.pl.3.3.11.nupkg.sha512"
+  ],
   "logs": []
 }

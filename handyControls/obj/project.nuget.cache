@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXcEhle41VL4Ix9DMTIYubx9ipKA7Wo/BO313uKQxFqJSNfTiOTdsg04XnE67BTBa6qhR3toeqOSEiYkmHO6NA==",
+  "success": true,
+  "projectFilePath": "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\handyControls\\handyControls.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam Bunzel\\.nuget\\packages\\handycontrol.lang.en\\3.3.0\\handycontrol.lang.en.3.3.0.nupkg.sha512",
+    "C:\\Users\\Adam Bunzel\\.nuget\\packages\\handycontrols.lang.pl\\3.3.11\\handycontrols.lang.pl.3.3.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -12,7 +12,4 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\Adam Bunzel\.nuget\packages\" />
   </ItemGroup>
-  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgHandyControls Condition=" '$(PkgHandyControls)' == '' ">C:\Users\Adam Bunzel\.nuget\packages\handycontrols\3.3.11</PkgHandyControls>
-  </PropertyGroup>
 </Project>
