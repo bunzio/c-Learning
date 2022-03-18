@@ -1,0 +1,8 @@
+D:\Systemowe\Pulpit\handyControls.exe
+D:\Systemowe\Pulpit\handyControls.dll
+D:\Systemowe\Pulpit\handyControls.deps.json
+D:\Systemowe\Pulpit\handyControls.runtimeconfig.json
+D:\Systemowe\Pulpit\handyControls.pdb
+D:\Systemowe\Pulpit\HandyControl.dll
+D:\Systemowe\Pulpit\en\HandyControl.resources.dll
+D:\Systemowe\Pulpit\pl\HandyControl.resources.dll

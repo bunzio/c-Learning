@@ -1,0 +1,4 @@
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TikTakToke\TikTakToke\obj\Debug\net6.0-windows\TikTakToke.csproj.AssemblyReference.cache
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TikTakToke\TikTakToke\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TikTakToke\TikTakToke\obj\Debug\net6.0-windows\TikTakToke_MarkupCompile.cache
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TikTakToke\TikTakToke\obj\Debug\net6.0-windows\TikTakToke_MarkupCompile.lref

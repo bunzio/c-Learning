@@ -6,8 +6,16 @@
         xmlns:hc="https://handyorg.github.io/handycontrol"
         xmlns:local="clr-namespace:handyControls"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="900" Width="500">
     <Grid>
+        
+        <hc:Badge Value="12" BadgeMargin="0,-14,-20,0" Height="30">
+            <Button Content="Default style" Click="ButtonBase_OnClick"/>
+        </hc:Badge>
+        
+        
         
     </Grid>
 </Window>
+
+

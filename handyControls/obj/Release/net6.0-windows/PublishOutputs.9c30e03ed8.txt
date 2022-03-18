@@ -1,0 +1,8 @@
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\handyControls\app\handyControls.exe
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\handyControls\app\handyControls.dll
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\handyControls\app\handyControls.deps.json
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\handyControls\app\handyControls.runtimeconfig.json
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\handyControls\app\handyControls.pdb
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\handyControls\app\HandyControl.dll
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\handyControls\app\en\HandyControl.resources.dll
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\handyControls\app\pl\HandyControl.resources.dll

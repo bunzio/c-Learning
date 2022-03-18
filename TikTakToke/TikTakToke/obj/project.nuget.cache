@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dt4QpNp7NG+JSGMZrd0IxzdgmtXAy175YCJ0s3uxjXRnqsgEvOH4hd9/1fQmun7Ps2/Dn6ZXs+rqQXaLry+30g==",
+  "success": true,
+  "projectFilePath": "D:\\Systemowe\\Dokumenty\\C#\\1. Learning\\c#Learning\\TikTakToke\\TikTakToke\\TikTakToke.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam Bunzel\\.nuget\\packages\\handycontrols\\3.3.11\\handycontrols.3.3.11.nupkg.sha512",
+    "C:\\Users\\Adam Bunzel\\.nuget\\packages\\handycontrols.lang.pl\\3.3.11\\handycontrols.lang.pl.3.3.11.nupkg.sha512",
+    "C:\\Users\\Adam Bunzel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Adam Bunzel\\.nuget\\packages\\npgsql\\7.0.0-preview.2\\npgsql.7.0.0-preview.2.nupkg.sha512",
+    "C:\\Users\\Adam Bunzel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

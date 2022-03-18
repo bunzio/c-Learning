@@ -23,3 +23,4 @@ D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\handyControls\obj\Debug\net6.0-
 D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\handyControls\obj\Debug\net6.0-windows\handyControls.pdb
 D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\handyControls\obj\Debug\net6.0-windows\handyControls.genruntimeconfig.cache
 D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\handyControls\obj\Debug\net6.0-windows\ref\handyControls.dll
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\handyControls\bin\Debug\net6.0-windows\HandyControl.dll
