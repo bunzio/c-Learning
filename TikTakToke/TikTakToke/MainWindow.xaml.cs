@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using HandyControl.Tools.Extension;
 
 namespace TikTakToke
 {
@@ -23,6 +24,24 @@ namespace TikTakToke
         public MainWindow()
         {
             InitializeComponent();
+            
+        }
+
+        private void b_log_in(object sender, RoutedEventArgs e)
+        {
+            SignIn usrControlSignIn = new SignIn();
+            usrControlSignIn.Hide();
+            LogIn usrControlLogIn = new LogIn();
+            usrControlLogIn.Show();
+
+        }
+
+        private void b_sign_in(object sender, RoutedEventArgs e)
+        {
+            LogIn usrControlLogIn = new LogIn();
+            usrControlLogIn.Hide();
+            SignIn usrControlSignIn = new SignIn();
+            usrControlSignIn.Show();
         }
     }
 }

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\TikTakToke\TikTakToke\App.xaml
-11407045341
+3400313695
 
-3-1233169557
+5285876620
 1971380771190
-MainWindow.xaml;
+LogIn.xaml;MainWindow.xaml;SignIn.xaml;
 
-True
+False
 

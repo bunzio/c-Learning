@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "TikTakToke/1.0.0": {
         "dependencies": {
-          "HandyControl": "3.3.0",
+          "HandyControls": "3.3.11",
           "HandyControls.Lang.pl": "3.3.11",
           "Npgsql": "7.0.0-preview.2"
         },
@@ -16,9 +16,9 @@
           "TikTakToke.dll": {}
         }
       },
-      "HandyControl/3.3.0": {
+      "HandyControls/3.3.11": {
         "runtime": {
-          "lib/net5.0/HandyControl.dll": {
+          "lib/net6.0/HandyControl.dll": {
             "assemblyVersion": "3.3.0.0",
             "fileVersion": "3.3.0.0"
           }
@@ -60,12 +60,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "HandyControl/3.3.0": {
+    "HandyControls/3.3.11": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-LY38yByPYXOP2kfQkneedgSE+Ps6XWsXId9hBoEgvef4/mdToqWNSueA6kg1u/nKCV1E8zdpI+ZvevDnlyF10Q==",
-      "path": "handycontrol/3.3.0",
-      "hashPath": "handycontrol.3.3.0.nupkg.sha512"
+      "sha512": "sha512-sfIuJmYVJb07rNBsy1SvZ8X8XHbt1P7wWkVJbZIwD4j4mgztGN6q46pJqLps0iP7lagLKyKlLeAU/pIX7xjsVA==",
+      "path": "handycontrols/3.3.11",
+      "hashPath": "handycontrols.3.3.11.nupkg.sha512"
     },
     "HandyControls.Lang.pl/3.3.11": {
       "type": "package",
