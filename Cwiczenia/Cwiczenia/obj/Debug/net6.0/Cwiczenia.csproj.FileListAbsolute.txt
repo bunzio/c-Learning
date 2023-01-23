@@ -1,0 +1,15 @@
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\bin\Debug\net6.0\Cwiczenia.exe
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\bin\Debug\net6.0\Cwiczenia.deps.json
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\bin\Debug\net6.0\Cwiczenia.runtimeconfig.json
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\bin\Debug\net6.0\Cwiczenia.dll
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\bin\Debug\net6.0\Cwiczenia.pdb
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\obj\Debug\net6.0\Cwiczenia.csproj.AssemblyReference.cache
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\obj\Debug\net6.0\Cwiczenia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\obj\Debug\net6.0\Cwiczenia.AssemblyInfoInputs.cache
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\obj\Debug\net6.0\Cwiczenia.AssemblyInfo.cs
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\obj\Debug\net6.0\Cwiczenia.csproj.CoreCompileInputs.cache
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\obj\Debug\net6.0\Cwiczenia.dll
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\obj\Debug\net6.0\refint\Cwiczenia.dll
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\obj\Debug\net6.0\Cwiczenia.pdb
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\obj\Debug\net6.0\Cwiczenia.genruntimeconfig.cache
+D:\Systemowe\Dokumenty\C#\1. Learning\c#Learning\Cwiczenia\Cwiczenia\obj\Debug\net6.0\ref\Cwiczenia.dll
