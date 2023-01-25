@@ -4,4 +4,4 @@ using Cwiczenia;
 
 //Console.WriteLine("Hello, World!");
 
-zad2_1.zad();
+//zad2_1.zad();
