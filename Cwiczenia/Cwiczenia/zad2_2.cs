@@ -35,8 +35,8 @@ public class zad2_2
                 }
                 else
                 {
-                    Console.WriteLine("x1= "+ x1);
-                    Console.WriteLine("x2= " + x2);
+                    Console.WriteLine("x1= {0:##.##}", x1);
+                    Console.WriteLine("x2= {0:##.##}", x2);
                 }
             }
         }
